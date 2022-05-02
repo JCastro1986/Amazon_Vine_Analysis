@@ -15,29 +15,40 @@ I have to figure out if there are any positive reviews bias by Amazon Vine users
 ## Results: 
 pgAdming Table:
 
-
+![customers_table](https://user-images.githubusercontent.com/95668609/166179358-57e6a0c7-4802-4aee-a06c-d9ccf8d4250b.png)
+![products_table](https://user-images.githubusercontent.com/95668609/166179360-b0ab1a88-2136-46e3-900e-25c61b87e4e2.png)
+![review_id_table](https://user-images.githubusercontent.com/95668609/166179361-b89e8cc7-b1a8-4cc9-88e5-cf9e6e03efe3.png)
+![vine_table](https://user-images.githubusercontent.com/95668609/166179362-0983f82a-51fc-4501-ba93-fbc3c27cb714.png)
 
 1. How many Vine reviews and non-Vine reviews were there?
 
 There are 9,454 vine reviews.
 
 * Image1
+![Image#1](https://user-images.githubusercontent.com/95668609/166179374-8980a43c-406c-437e-929e-e2ef3e5389ee.png)
+
 
 There are 28,467 no vine reviews.
 
 * Image2
+![Image#2](https://user-images.githubusercontent.com/95668609/166179386-38f2b744-cf07-475a-a9fd-c142d1e1329d.png)
+
 
 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 There are 3,607 5 stars vine reviews and 11,141 5 stars no vine reviews.
 
 * Image3
+![Image#3](https://user-images.githubusercontent.com/95668609/166179393-81a3e857-7d34-4fbf-9ad7-6fe8399e5e7d.png)
+
 
 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 The percentage of reviews of 5 stars vine reviews is 61.69% and the percentage of 5 star no vine reviews is 64.3%.
 
 * Image3
+![Image#3](https://user-images.githubusercontent.com/95668609/166179403-2c13565f-a222-438a-975e-ad91b4ac36d3.png)
+
 
 ## Summary: 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
